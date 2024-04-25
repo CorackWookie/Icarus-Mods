@@ -1,0 +1,36 @@
+{
+    "name": "Coracks_Patcher1_Resources",
+    "author": "Original by Laanp-Petes ResourceKiller Mod - Modified by Corack",
+    "version": "2.0",
+    "description": "Workshop Patcher1 3 Pockets now has resource benefits ",
+    "description": "D_Equippable - Viewed Laanp-PetesResourceKiller Mod  ",
+    "description": "               used as template to modify the Workshop Module  ",
+    "description": "",
+    "fileName": "Coracks_Patcher1_Resources",
+    "readmeURL": "",
+    "imageURL": "",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Traits-D_Equippable.json",
+            "File_Items": [
+                {
+                    "Name": "Module_Slots",
+                    "GrantedStats": {
+                        "(Value=\"BaseBackpackSlots_+\")": 6,
+                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 100,
+                        "(Value=\"BasePneumoniaResistance_%\")": 50,
+                        "(Value=\"GrantedAuraWeightReduction_?\")": 1,
+                        "(Value=\"BaseWeightCapacity_+%\")": 15,
+                        "(Value=\"BaseCaughtFishQuality_+%\")": 10,
+                        "(Value=\"BaseChanceToCatchUniqueFish_+%\")": 200,
+                        "(Value=\"BaseChanceToFellTreeInstantly_%\")": 100
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
