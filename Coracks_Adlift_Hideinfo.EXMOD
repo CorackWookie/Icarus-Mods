@@ -1,0 +1,44 @@
+{
+    "name": "Coracks_Adlift_Hide_Map_Info",
+    "author": "Original by Laanp-Petes ResourceKiller Mod - Modified by Corack",
+    "version": "2.0",
+    "description": "Workshop Adlift Module now hides map information ",
+    "description": "D_Equippable - Viewed Laanp-PetesResourceKiller Mod  ",
+    "description": "               used as template to modify the Workshop Module  ",
+    "description": "",
+    "fileName": "Coracks_Adlift_Hide_Map_Info",
+    "readmeURL": "",
+    "imageURL": "",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Traits-D_Equippable.json",
+            "File_Items": [
+                {
+                    "Name": "Module_Carry_Weight",
+                    "GrantedStats": {
+                        "(Value=\"BaseWeightCapacity_+%\")": 15,
+                        "(Value=\"CanSeeHealth_?\")": -1,
+                        "(Value=\"CanSeeOtherPlayersBillboards_?\")": -1,
+                        "(Value=\"CanSeeStatuses_?\")": -1,
+                        "(Value=\"MapCanMakeWaypoint_?\")": -1,
+                        "(Value=\"MapCanSeeBroadcastOthers_?\")": -1,
+                        "(Value=\"MapCanSeeSelf_?\")": -1,
+                        "(Value=\"MapCanSeeVisualMap_?\")": -1,
+                        "(Value=\"MapCanSeeWaypoint_?\")": -1,
+                        "(Value=\"MapIsBroadcastingForMap_?\")": -1,
+                        "(Value=\"CanSeeCompass_?\")": -1
+                    },
+                    "WorldStats": {
+                        "(Value=\"WorldPlayerCanBroadcastToMap_?\")": -1,
+                        "(Value=\"WorldPlayerCanSeeOthersOnMap_?\")": -1,
+                        "(Value=\"WorldPlayerCanSeeTopographicalMap_?\")": -1
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
