@@ -1,0 +1,195 @@
+{
+    "name": "Coracks_Crossbows_N_Bows",
+    "author": "Original Dextermod Bifrost Modified by Corack",
+    "version": "2.0",
+    "description": " Modified Existing Crossbow and Bow stats for better progression and added Highlighted Arrows/Bolts to all",
+    "description": "D_ItemStatic  - added Dextermod: Bifrost_Titanium_Crossbows ",
+    "description": "D_FirearmData - added Dextermod: Bifrost_Titanium_Crossbows ",
+    "description": "       used as template to only modify existing bow slightly, add Highlighted Arrows/Bolts  ",
+    "description": "",
+    "fileName": "Coracks_Crossbows_N_Bows",
+    "readmeURL": "",
+    "imageURL": "",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Items-D_ItemsStatic.json",
+            "File_Items": [
+                {
+                    "Name": "Wood_Bow",
+                    "AdditionalStats": {
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Longbow",
+                    "AdditionalStats": {
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Crossbow",
+                    "AdditionalStats": {
+                        "(Value=\"BaseAttacksCauseSlow_%\")": 25,
+                        "(Value=\"BaseBowCriticalDamage_+%\")": 10,
+                        "(Value=\"BaseHardenedPointPenetration_%\")": 100,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Recurve_Bow",
+                    "AdditionalStats": {
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Compound_Bow",
+                    "AdditionalStats": {
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Sandworm_Bow",
+                    "AdditionalStats": {
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Caveworm_Bow",
+                    "AdditionalStats": {
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Meta_Bow_Shengong_Alpha",
+                    "AdditionalStats": {
+                        "(Value=\"BaseArrowProjectileSpeed_+%\")": 15,
+                        "(Value=\"BaseBowCriticalDamage_+%\")": -5,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Meta_Bow_Shengong_Beta",
+                    "AdditionalStats": {
+                        "(Value=\"BaseBowChargeSpeed_+%\")": -15,
+                        "(Value=\"BaseMovementSpeed_+%\")": -15,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Meta_Bow_Shengong_Charlie",
+                    "AdditionalStats": {
+                        "(Value=\"BaseBowChargeSpeed_+%\")": -15,
+                        "(Value=\"BaseArrowProjectileSpeed_+%\")": 15,
+                        "(Value=\"BaseBowProjectileDamage_+%\")": 10,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Meta_Bow_Shengong_Delta",
+                    "AdditionalStats": {
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Meta_Bow_Shengong_Echo",
+                    "AdditionalStats": {
+                        "(Value=\"BaseElectricDamage_+%\")": 25,
+                        "(Value=\"BaseFireDamage_+%\")": 25,
+                        "(Value=\"BasePoisonDamage_+%\")": 25,
+                        "(Value=\"BaseFrostDamage_+%\")": 25,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Meta_Bow_Larkwell",
+                    "AdditionalStats": {
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Meta_Crossbow_Inaris_A",
+                    "AdditionalStats": {
+                        "(Value=\"BaseAttacksCauseSlow_%\")": 20,
+                        "(Value=\"BaseHardenedPointPenetration_%\")": 100,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Meta_Crossbow_Inaris_B",
+                    "AdditionalStats": {
+                        "(Value=\"BaseAttacksCauseSlow_%\")": 35,
+                        "(Value=\"BaseHardenedPointPenetration_%\")": 100,
+                        "(Value=\"BaseBowCriticalDamage_+%\")": 10,
+                        "(Value=\"BaseBowProjectileDamage_+%\")": 15,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Meta_Crossbow_Inaris_C",
+                    "AdditionalStats": {
+                        "(Value=\"BaseAttacksCauseSlow_%\")": 25,
+                        "(Value=\"BaseHardenedPointPenetration_%\")": 100,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Meta_Crossbow_Inaris_D",
+                    "AdditionalStats": {
+                        "(Value=\"BaseAttacksCauseSlow_%\")": 25,
+                        "(Value=\"BaseHardenedPointPenetration_%\")": 100,
+                        "(Value=\"BaseFireDamage_+%\")": 35,
+                        "(Value=\"BaseFrostDamage_+%\")": 35,
+                        "(Value=\"BasePoisonDamage_+%\")": 35,
+                        "(Value=\"BaseElectricDamage_+%\")": 35,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Platinum_Crossbow",
+                    "AdditionalStats": {
+                        "(Value=\"BaseAttacksCauseSlow_%\")": 30,
+                        "(Value=\"BaseBowCriticalDamage_+%\")": 15,
+                        "(Value=\"BaseHardenedPointPenetration_%\")": 125,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Titanium_Crossbow",
+                    "AdditionalStats": {
+                        "(Value=\"BaseAttacksCauseSlow_%\")": 35,
+                        "(Value=\"BaseBowCriticalDamage_+%\")": 20,
+                        "(Value=\"BaseHardenedPointPenetration_%\")": 150,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Tools-D_FirearmData.json",
+            "File_Items": [
+                {
+                    "Name": "Crossbow",
+                    "ReloadTime": 2
+                },
+                {
+                    "Name": "Platinum_Crossbow",
+                    "DamageMultiplier": 1.5
+                },
+                {
+                    "Name": "Titanium_Crossbow",
+                    "DamageMultiplier": 2,
+                    "AmmoCapacity": 8
+                },
+                {
+                    "Name": "Sandworm_Crossbow",
+                    "DamageMultiplier": 2,
+                    "ReloadTime": 2
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
