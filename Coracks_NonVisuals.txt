@@ -1,0 +1,18 @@
+Coracks_NonVisuals
+See Notes, Modified by Corack"
+
+
+My versions of others mods, Slots, Stacks, PowerOutput, Heat/AC Range 
+
+D_InventoryInfo - added Jimk72 Increased Slots - Removed some
+
+D_ModifierStates - added Dextermod Stronger HVAC ",
+                     Decreased his range to make it fit my normal haha",
+
+D_Energy - Viewed Jimk72 Craftables
+D_Generator - Viewed Jimk72 Craftables
+              and used as template to change power output of existing Generator and Windmill
+			  
+D_Itemable - Modified Jimk72 Increased Stacks changed to  250 max stacks added sponge and fur
+             for me the smaller stacks are easier to divide.
+ 

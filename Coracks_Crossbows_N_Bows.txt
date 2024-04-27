@@ -1,0 +1,10 @@
+Coracks_Crossbows_N_Bows
+Original Dextermod Bifrost Modified by Corack
+
+Crossbows are slightly stronger and all bows have a more linear progression.
+Note this does not include the Bifrost Crossbow! I just used this as a guide to make this mod.
+
+Modified Existing Crossbow and Bow stats for better progression and added Highlighted Arrows/Bolts to all
+D_ItemStatic  - added Dextermod: Bifrost_Titanium_Crossbows
+D_FirearmData - added Dextermod: Bifrost_Titanium_Crossbows
+       used as template to only modify existing bows slightly, add Highlighted Arrows/Bolts  

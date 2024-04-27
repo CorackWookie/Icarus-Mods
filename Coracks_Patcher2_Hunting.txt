@@ -1,0 +1,24 @@
+Coracks_Patcher2_Hunting
+This takes Pets Resource Killer mod a little further.
+
+Original by Laanp-Petes ResourceKiller Mod - Modified by Corack
+
+Workshop Patcher2 Module when equipped gives the following:
+6 Backpack slots.
+50% Deep Wound Resistance.
+50% Fire Resistance.
+50% Hyperthermia Resistance.
+50% Hypothermia Resistance.
+50% Poison Resistance.
+50% Wound Resistance.
++10% Movement Speed.
+Can see animal health and status.
+Highlight Small, Medium, and Large Animals like the trait.
++50% Tamed Creature Stamina.
++25% Tamed Creature Speed.
+Grants nearby people healing Aura.
+Can see creatures on the map.
+Can see world bosses on the map.
+
+D_Equippable - Viewed Laanp-PetesResourceKiller Mod
+               used as template to modify the Workshop Module

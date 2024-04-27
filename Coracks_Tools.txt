@@ -1,0 +1,7 @@
+Coracks_Tools
+Original Cryorus Improved Tools Modified by Corack
+
+Expanded on the original and adjusted for a better progression of tools
+
+D_ToolDamage - added Cryorus improved tools mod
+   used as template to modify existing tools for a more of a progressive improvement 

@@ -1,0 +1,15 @@
+Coracks_Patcher1_Resources
+This takes Pets Resource Killer mod a little further.
+
+Original by Laanp-Petes ResourceKiller Mod - Modified by Corack
+
+Workshop Patcher1 Module when equipped gives the following:
+6 Backpack slots
+100% Chance mine Ores, Stones, Trees Instantly
++15% weight capacity
+50% Resist Pneumonia
+200% chance to catch unique fish
++10% improved fish quality
+
+D_Equippable - Viewed Laanp-PetesResourceKiller Mod
+               used as template to modify the Workshop Module

@@ -1,0 +1,15 @@
+Coracks_Adlift_Hide_Map_Info
+This is for making the game harder or playing PVP with friends only on an outpost.
+
+Original by Laanp-Petes ResourceKiller Mod - Modified by Corack
+
+Workshop Adlift Module now hides map information
+Map is visible until equipped then will not reappear until unequipped and restart game.
+What will disappear and reappear is the following:
+Players Markers
+Players Waypoints
+Players Dropships
+Players Compass
+
+D_Equippable - Viewed Laanp-PetesResourceKiller Mod
+               used as template to modify the Workshop Module
