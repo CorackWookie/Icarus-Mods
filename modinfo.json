@@ -6,7 +6,7 @@
       "version": "1.0",
       "compatibility": "",
       "description": "This modifys the Adlift Module to hide the map from insertion to reboot. Upon removal it will show player position, waypoints and dropships. Useful for making things harder or for a personal family PVP session.",
-      "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks%20Adlift%20Hide%20info.png",
+      "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks%20Adlift%20Hide%20Map%20info.png",
       "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Adlift_Hide_Map_Info.txt",
       "files": {
           "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Adlift_Hide_Map_Info.EXMODZ"
