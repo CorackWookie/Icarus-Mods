@@ -1,0 +1,100 @@
+{
+  "mods": [
+    {
+      "name": "Coracks_Adlift_Hide_Map_info",
+      "author": "Corack",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "This modifys the Adlift Module to hide the map from insertion to reboot. Upon removal it will show player position, waypoints and dropships. Useful for making things harder or for a personal family PVP session.",
+      "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks%20Adlift%20Hide%20info.png",
+      "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Adlift_Hide_Map_Info.txt",
+      "files": {
+          "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Adlift_Hide_Map_Info.EXMODZ"
+      }
+    },
+    {
+      "name": "Coracks_Arrows_N_Repair_X50",
+      "author": "Corack",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "This makes all workshop arrows and the repair kit give you 50 each time you purchase. My Dedicated server has issues returning stuff to space.",
+      "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks%20Arrows%20n%20Repair%20Kit%20x50.png",
+      "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Arrows_N_Repair_X50.txt",
+      "files": {
+          "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Arrows_N_Repair_x50.EXMODZ"
+      }
+    },
+    {
+      "name": "Coracks_Crossbows_N_Bows",
+      "author": "Corack",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "This adds the highlight projectile function to  all Crossbows and Bows. It also makes Crossbows slightly more powerful and makes progressions more linear",
+      "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks%20Crossbows%20N%20Bows.png",
+      "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Crossbows_N_Bows.txt",
+      "files": {
+          "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Crossbows_N_Bows.EXMODZ"
+      }
+    },
+    {
+      "name": "Coracks_NonVisuals",
+      "author": "Corack",
+      "version": "2.0",
+      "compatibility": "",
+      "description": "My verion of 250 Slots, some Stacks, Power Improvements and medium Heat/AC Range improvements.",
+      "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Corack%20Non%20Visuals.png",
+      "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_NonVisuals.txt",
+      "files": {
+          "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_NonVisuals.EXMODZ"
+      }
+    },
+    {
+      "name": "Coracks_Occasional_Weather",
+      "author": "Corack",
+      "version": "8.0",
+      "compatibility": "",
+      "description": "This changes all weather patterns to 4 days of mild then one day of 3 segmented generated pattern. Storms generally last 5 min approximately",
+      "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks%20Occasional%20Weather.png",
+      "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Occasional_Weather.txt",
+      "files": {
+          "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Occasional_Weather.EXMODZ"
+      }
+    },
+    {
+      "name": "Coracks_Patcher1_Resources",
+      "author": "Corack",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "This changes the Patcher 1 Module to 1 hit trees,Ores and Rocks. Plus Pneunonia resistance. Carry Capacity and Fishing Benefits.",
+      "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks%20Patcher%20I%20Resources.png",
+      "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Patcher1_Resources.txt",
+      "files": {
+          "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Patcher1_Resources.EXMODZ"
+      }
+    },
+    {
+      "name": "Coracks_Patcher2_Hunting",
+      "author": "Corack",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "This changes the Patcher 2 Module to have the abilities of other available modules. Wound,Fire,Hyperthermia,Hypothermia Resistances. Highlight Animals, Movement Speed. Moount Speed. See Creatures on the map.)",
+      "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks%20Patcher%20II%20Hunting.png",
+      "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Patcher2_Hunting.txt",
+      "files": {
+          "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Patcher2_Hunting.EXMODZ"
+      }
+    },
+    {
+      "name": "Coracks_Tools",
+      "author": "Corack",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "My version of tools modification to live a linear progression to all tools in the game at time of this writting",
+      "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Corack%20Tools.png",
+      "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Tools.txt",
+      "files": {
+          "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Tools.EXMODZ"
+      }
+    }
+   ]
+ }
