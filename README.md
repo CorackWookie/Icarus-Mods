@@ -1,5 +1,6 @@
 # Icarus-Mods
 My versions of mods for the Rocketworxs game Icarus
+I Try to make my mods and alterations to mods fit in the Icarus world without being overpowering.
 
 👋 Hi, I’m @CorackWookie I like learning new things and exploring how to do things.
 👀 I’m interested in Icarus mods currently. Overall robotics and similar technology
