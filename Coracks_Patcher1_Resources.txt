@@ -1,5 +1,5 @@
 Coracks_Patcher1_Resources
-This takes Pets Resource Killer mod a little further.
+This takes Petes Resource Killer mod a little further.
 
 Original by Laanp-Petes ResourceKiller Mod - Modified by Corack
 
