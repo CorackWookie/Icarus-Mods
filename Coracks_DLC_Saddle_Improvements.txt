@@ -7,90 +7,111 @@ I used Sarge_Basic_Saddle_Improvements as a guide
 
 Saddle_Bearhide
 
-      BaseMountCargoSlots: 2,
-      BaseMountHeavyCargoSlots: 1,
-      BaseMovementSpeed%: -10,
-      BaseWaterConsumption%: 10,
-      BaseFoodConsumption%: 10,
-      BaseWeightCapacity%: -25,
-      BaseMaximumHealth%: 50,
-      BaseMeleeDamage%: 50
+	BaseFallDamageResistance_%:		25
+	BaseMeleeDamage_+%:				25
+	BaseWeightCapacity_+%:			25
+	BaseExposureResistance_+%:		25
+	BaseFoodConsumption_+%:			10
+	BaseFrostDamageResistance_%:	25
+	BaseMeleeDamageResistance_+%:	25
+	BaseMovementSpeed_+%: 			-10
+	MountCargoSlots_+: 				2
+	MountHeavyCargoSlots_+: 		1
   
-               
 Saddle_DeluxeLeather
   
-      BaseMountCargoSlots: 3,
-      BaseMountHeavyCargoSlots: 1,
-      BaseMovementSpeed%: 25,
-      BaseWaterConsumption%: -25,
-      BaseFoodConsumption%: -25,
-      BaseStaminaRegen%: 10,
-      BaseWeightCapacity%: -10,
-      BaseHealthRegen%: 10
-  
-               
-                
+	BaseFallDamageResistance_%:		-10
+	BaseWeightCapacity_+%:			10
+	BaseFoodConsumption_+%:			-25
+	BaseFrostDamageResistance_%:	-10
+	BaseHeatResistance_%:			-10
+	BaseMaximumHealth_+%:			25
+	BaseMaximumStamina_+%:			25
+	BaseMeleeDamageResistance_+%:
+	BaseMovementSpeed_+%: 			10
+	BasePoisonDamageResistance_%:
+	BaseWaterConsumption_+%:		-25
+	MountCargoSlots_+: 				3
+	MountHeavyCargoSlots_+: 		1
+   
 Saddle_CrocSkin
   
-      BaseMountCargoSlots: 2,
-      BaseMountHeavyCargoSlots: 1,
-      BaseWaterConsumption%: -25,
-      BaseFoodConsumption%: -25,
-      BaseMeleeDamage%: 10,
-      BaseThreatModifier%: 10
+	BaseFallDamageResistance_%:		10
+	BaseMeleeDamage_+%:				10
+	BaseExposureResistance_+%:		25
+	BaseFoodConsumption_+%:			-25
+	BaseFrostDamageResistance_%:	-25
+	BaseMaximumHealth_+%:			25
+	BaseMovementSpeed_+%: 			-10
+	BaseWaterConsumption_+%:		-25
+	MountCargoSlots_+: 				2
+	MountHeavyCargoSlots_+: 		1
   
-               
-                
 Saddle_Sandworm
   
-      BaseMountCargoSlots: 2,
-      BaseMountHeavyCargoSlots: 1,
-      BaseMovementSpeed%: -10,
-      BaseWaterConsumption%: -25,
-      BaseWeightCapacity%: -25,
-      BaseMeleeDamage%: 10
+	BaseFallDamageResistance_%:		25
+	BaseMeleeDamage_+%:				25
+	BaseWeightCapacity_+%:			25
+	BaseFrostDamageResistance_%:	-25
+	BaseHeatResistance_%:			25
+	BaseMeleeDamageResistance_+%:	25
+	BaseMovementSpeed_+%: 			-10
+	BasePoisonDamageResistance_%:	25
+	MountCargoSlots_+: 				2
+	MountHeavyCargoSlots_+: 		2
   
-               
-                
  Saddle_Desert
   
-      BaseMountCargoSlots: 2,
-      BaseMountHeavyCargoSlots: 1,
-      BaseWaterConsumption%: -50
-  
-               
-                
+	BaseWeightCapacity_+%:			-10
+	BaseExposureResistance_+%:		25
+	BaseFoodConsumption_+%:			10
+	BaseFrostDamageResistance_%:	-50
+	BaseHealthRegen_+%:				25
+	BaseHeatResistance_%:			50
+	BaseMovementSpeed_+%: 			25
+	BaseWaterConsumption_+%:		-50
+	MountCargoSlots_+: 				2
+	MountHeavyCargoSlots_+: 		1
+     
 Saddle_Armored
   
-      BaseMountCargoSlots: 2,
-      BaseMountHeavyCargoSlots: 1,
-      BaseMovementSpeed%: -10,
-      BaseWaterConsumption%: 10,
-      BaseFoodConsumption%: 10,
-      BaseWeightCapacity%: -25,
-      BaseMaximumHealth%: 100,
-      BaseMeleeDamage%: 25
-  
-               
-                
+	BaseFallDamageResistance_%:		50
+	BaseMeleeDamage_+%:				110
+	BaseWeightCapacity_+%:			-20
+	BaseExposureResistance_+%:		50
+	BaseFoodConsumption_+%:			10
+	BaseFrostDamageResistance_%:	50
+	BaseMeleeDamageResistance_+%:	50
+	BasePoisonDamageResistance_%:	25
+	BaseWaterConsumption_+%:		10
+	MountCargoSlots_+: 				1
+	MountHeavyCargoSlots_+: 		1
+   
 Saddle.Explorer
   
-      BaseMountCargoSlots: 3,
-      BaseMountHeavyCargoSlots: 2,
-      BaseMovementSpeed%: 10,
-      BaseWaterConsumption%: -25,
-      BaseFoodConsumption%: -25,
-      BaseWeightCapacity%: -25,
-      BaseMaximumHealth%: 25,
-  
-               
-                
+	BaseFallDamageResistance_%:		25
+	BaseMeleeDamage_+%:				-10
+	BaseWeightCapacity_+%:			-10
+	BaseExposureResistance_+%:		25
+	BaseFrostDamageResistance_%:	50
+	BaseHeatResistance_%:			-25
+	BaseMaximumStamina_+%:			25
+	BasePoisonDamageResistance_%:	25
+	BaseWaterConsumption_+%:		-25
+	MountCargoSlots_+: 				3
+	MountHeavyCargoSlots_+: 		2
+    
 Saddle_Racing
   
-      BaseMountCargoSlots: -1,
-      BaseMountHeavyCargoSlots: -1,
-      BaseMovementSpeed%: 50,
-      BaseStaminaRegen%: 50,
-      BaseMaximumStamina%: 50
+	BaseStaminaRegen_+%:			25
+	BaseWeightCapacity_+%:			-25
+	BaseFoodConsumption_+%:			20
+	BaseHealthRegen_+%:				25
+	BaseMaximumHealth_+%:			25
+	BaseMaximumStamina_+%:			25
+	BaseMovementSpeed_+%: 			50
+	BaseWaterConsumption_+%:		20
+	MountCargoSlots_+: 				-1
+	MountHeavyCargoSlots_+: 		-1
   
                 
