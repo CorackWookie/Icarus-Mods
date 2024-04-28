@@ -1,0 +1,96 @@
+Coracks_DLC_Saddle_Improvements
+
+**** still tweaking ***
+
+This improves the DLC Saddles with variations that I think fit the style of the game.
+I used Sarge_Basic_Saddle_Improvements as a guide
+
+Saddle_Bearhide
+
+      BaseMountCargoSlots: 2,
+      BaseMountHeavyCargoSlots: 1,
+      BaseMovementSpeed%: -10,
+      BaseWaterConsumption%: 10,
+      BaseFoodConsumption%: 10,
+      BaseWeightCapacity%: -25,
+      BaseMaximumHealth%: 50,
+      BaseMeleeDamage%: 50
+  
+               
+Saddle_DeluxeLeather
+  
+      BaseMountCargoSlots: 3,
+      BaseMountHeavyCargoSlots: 1,
+      BaseMovementSpeed%: 25,
+      BaseWaterConsumption%: -25,
+      BaseFoodConsumption%: -25,
+      BaseStaminaRegen%: 10,
+      BaseWeightCapacity%: -10,
+      BaseHealthRegen%: 10
+  
+               
+                
+Saddle_CrocSkin
+  
+      BaseMountCargoSlots: 2,
+      BaseMountHeavyCargoSlots: 1,
+      BaseWaterConsumption%: -25,
+      BaseFoodConsumption%: -25,
+      BaseMeleeDamage%: 10,
+      BaseThreatModifier%: 10
+  
+               
+                
+Saddle_Sandworm
+  
+      BaseMountCargoSlots: 2,
+      BaseMountHeavyCargoSlots: 1,
+      BaseMovementSpeed%: -10,
+      BaseWaterConsumption%: -25,
+      BaseWeightCapacity%: -25,
+      BaseMeleeDamage%: 10
+  
+               
+                
+ Saddle_Desert
+  
+      BaseMountCargoSlots: 2,
+      BaseMountHeavyCargoSlots: 1,
+      BaseWaterConsumption%: -50
+  
+               
+                
+Saddle_Armored
+  
+      BaseMountCargoSlots: 2,
+      BaseMountHeavyCargoSlots: 1,
+      BaseMovementSpeed%: -10,
+      BaseWaterConsumption%: 10,
+      BaseFoodConsumption%: 10,
+      BaseWeightCapacity%: -25,
+      BaseMaximumHealth%: 100,
+      BaseMeleeDamage%: 25
+  
+               
+                
+Saddle.Explorer
+  
+      BaseMountCargoSlots: 3,
+      BaseMountHeavyCargoSlots: 2,
+      BaseMovementSpeed%: 10,
+      BaseWaterConsumption%: -25,
+      BaseFoodConsumption%: -25,
+      BaseWeightCapacity%: -25,
+      BaseMaximumHealth%: 25,
+  
+               
+                
+Saddle_Racing
+  
+      BaseMountCargoSlots: -1,
+      BaseMountHeavyCargoSlots: -1,
+      BaseMovementSpeed%: 50,
+      BaseStaminaRegen%: 50,
+      BaseMaximumStamina%: 50
+  
+                
