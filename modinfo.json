@@ -84,18 +84,7 @@
           "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Patcher2_Hunting.EXMODZ"
       }
     },
-	   {
-      "name": "Coracks_DLC_Saddle_Improvements",
-      "author": "Corack",
-      "version": "1.0",
-      "compatibility": "",
-      "description": "This gives the DLC Saddles unique specs for the animal it's equipped onto. used Sarge_Basic_Saddle_Improvements as guide",
-      "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_DLC_Saddle_Improvements.png",
-      "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_DLC_Saddle_Improvements.txt",
-      "files": {
-          "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_DLC_Saddle_Improvements.EXMODZ"
-      }
-    },
+
     {
       "name": "Coracks_Tools",
       "author": "Corack",
