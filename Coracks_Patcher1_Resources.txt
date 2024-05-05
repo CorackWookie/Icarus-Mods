@@ -1,6 +1,10 @@
 Coracks_Patcher1_Resources
 This takes Petes Resource Killer mod a little further.
 
+Version 3 added instantly collect bones.
+Version 2 reduced benefits and moved stuff to new Patcher2 mod
+Version 1 Created with all the existing module benefits and a few extras.
+
 Original by Laanp-Petes ResourceKiller Mod - Modified by Corack
 
 Workshop Patcher1 Module when equipped gives the following:
@@ -9,7 +13,8 @@ Workshop Patcher1 Module when equipped gives the following:
 +15% weight capacity
 50% Resist Pneumonia
 200% chance to catch unique fish
-+10% improved fish quality
++10% improved fish quality,
+100% chance to instantly collect bones
 
 D_Equippable - Viewed Laanp-PetesResourceKiller Mod
                used as template to modify the Workshop Module
