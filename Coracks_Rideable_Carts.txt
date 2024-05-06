@@ -1,0 +1,8 @@
+Coracks_Rideable_Carts
+
+Used Dextermod_BetterCart_Ridgeback as template
+
+All current in game original carts can be ridden. EXCEPT the watering cart because it uses F to fill and gets overwritten by F to ride.
+
+D_ItemsStatic. 
+D_Equippable.
