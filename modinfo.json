@@ -12,6 +12,18 @@
           "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Adlift_Hide_Map_Info.EXMODZ"
       }
     },
+	    {
+      "name": "Coracks_Adlift_Increased_Ores",
+      "author": "Corack",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "Workshop Adlift Module now works like a pickaxe attachment and gives increased ores",
+      "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Adlift_Increased_Ores.png",
+      "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Adlift_Increased_Ores.txt",
+      "files": {
+          "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Adlift_Increased_Ores.EXMODZ"
+      }
+    },
     {
       "name": "Coracks_Arrows_N_Repair_X50",
       "author": "Corack",
