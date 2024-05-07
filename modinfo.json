@@ -66,9 +66,6 @@
       "version": "3.0",
       "compatibility": "",
       "description": "This changes the Patcher 1 Module to 1 hit trees,Ores,Rocks and Bones. Plus Pneunonia resistance. Carry Capacity and Fishing Benefits.",
-	  "description": "Version 3 - Added new bones one hit collection. ", 
-	  "description": "Version 2 = moved non resource/ cave effect to Patcher 2 ", 
-	  "description": "Version 1 - creation added all module effects to this one ", 
       "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks%20Patcher%20I%20Resources.png",
       "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Patcher1_Resources.txt",
       "files": {
