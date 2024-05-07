@@ -1,0 +1,8 @@
+Coracks_Adlift_Increased_Ores
+This is similar to the ION Backpack in that it gives 30% more of every ore + Stone
+
+Original idea by ApexAlphaGaming Mod - Modified by Corack
+
+
+D_Equippable - Viewed Laanp-PetesResourceKiller Mod
+               used as template to modify the Workshop Module
