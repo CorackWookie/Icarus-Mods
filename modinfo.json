@@ -114,10 +114,9 @@
       "version": "2.0",
       "compatibility": "",
       "description": "This lets you ride the buffalow with the Bovine Pack Harness.",
-      "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Corack_Rideable_Carts.png",
-      "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Rideable_Carts.txt",
+      "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Corack_Rideable_Bovine_Pack_Harness.txt",
       "files": {
-          "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Corack_Rideable_Carts.EXMODZ"
+          "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Corack_Rideable_Bovine_Pack_Harness.EXMODZ"
       }
     },
     {
