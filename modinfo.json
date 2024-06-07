@@ -51,7 +51,7 @@
     {
       "name": "Coracks_NonVisuals",
       "author": "Corack",
-      "version": "2.0",
+      "version": "2.5",
       "compatibility": "",
       "description": "My verion of 250 Slots, some Stacks, Power Improvements and medium Heat/AC Range improvements.",
       "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Corack%20Non%20Visuals.png",
@@ -109,11 +109,11 @@
       }
     },
 	    {
-      "name": "Corack_Rideable_Carts",
+      "name": "Corack_Rideable_Bovine_Pack_Harness",
       "author": "Corack",
-      "version": "1.0",
+      "version": "2.0",
       "compatibility": "",
-      "description": "This lets you ride any cart except the watering cart because it uses the F key to fill it.",
+      "description": "This lets you ride the buffalow with the Bovine Pack Harness.",
       "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Corack_Rideable_Carts.png",
       "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Rideable_Carts.txt",
       "files": {

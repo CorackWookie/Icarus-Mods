@@ -1,0 +1,8 @@
+Corack_Rideable_Bovine_Pack_Harness
+
+Used Dextermod_BetterCart_Ridgeback as template
+
+Allows you to ride a buffalo with the Bovine Pack Harness
+
+D_ItemsStatic. 
+D_Equippable.
