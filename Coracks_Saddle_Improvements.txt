@@ -1,0 +1,118 @@
+Coracks_Saddle_Improvements
+
+**** still tweaking ***
+V3.0 added non DLC items, increased weight capacity and cargo slots from previous version
+
+This improves the DLC Saddles with variations that I think fit the style of the game.
+I used Sarge_Basic_Saddle_Improvements as a guide
+
+
+                    "Name": "Saddle_Standard",
+                        "(Value=\"BaseMountCargoSlots_+\")": 6,
+                        "(Value=\"BaseMountHeavyCargoSlots_+\")": 3
+
+                    "Name": "Saddle_Cargo",
+                        "(Value=\"BaseMountCargoSlots_+\")": 26,
+                        "(Value=\"IsSaddleCargoUseOnly_?\")": 0,
+                        "(Value=\"BaseWeightCapacity_+\")": 400,
+                        "(Value=\"BaseMountHeavyCargoSlots_+\")": 4
+                    "AdditionalStats": {
+                        "(Value=\"IsSaddleCargoUseOnly_?\")": 0
+
+                    "Name": "CSaddle_Bearhide",
+                        "(Value=\"BaseFallDamageResistance_%\")": 25,
+                        "(Value=\"BaseMeleeDamage_+%\")": 25,
+                        "(Value=\"BaseWeightCapacity_+%\")": 45,
+                        "(Value=\"BaseExposureResistance_+%\")": 25,
+                        "(Value=\"BaseFoodConsumption_+%\")": 10,
+                        "(Value=\"BaseFrostDamageResistance_%\")": 25,
+                        "(Value=\"BaseMeleeDamageResistance_+%\")": 25,
+                        "(Value=\"BaseMovementSpeed_+%\")": -10,
+                        "(Value=\"BaseMountCargoSlots_+\")": 6,
+                        "(Value=\"BaseMountHeavyCargoSlots_+\")": 3
+ 
+                    "Name": "CSaddle_DeluxeLeather",
+                        "(Value=\"BaseFallDamageResistance_%\")": -10,
+                        "(Value=\"BaseWeightCapacity_+%\")": 30,
+                        "(Value=\"BaseFoodConsumption_+%\")": -25,
+                        "(Value=\"BaseFrostDamageResistance_%\")": -10,
+                        "(Value=\"BaseHeatResistance_%\")": -10,
+                        "(Value=\"BaseMaximumHealth_+%\")": 25,
+                        "(Value=\"BaseMaximumStamina_+%\")": 25,
+                        "(Value=\"BaseMovementSpeed_+%\")": 10,
+                        "(Value=\"BaseWaterConsumption_+%\")": -25,
+                        "(Value=\"BaseMountCargoSlots_+\")": 7,
+                        "(Value=\"BaseMountHeavyCargoSlots_+\")": 3
+        
+                    "Name": "CSaddle_CrocSkin",
+                        "(Value=\"BaseFallDamageResistance_%\")": 10,
+                        "(Value=\"BaseMeleeDamage_+%\")": 20,
+                        "(Value=\"BaseExposureResistance_+%\")": 25,
+                        "(Value=\"BaseFoodConsumption_+%\")": -25,
+                        "(Value=\"BaseFrostDamageResistance_%\")": -25,
+                        "(Value=\"BaseMaximumHealth_+%\")": 25,
+                        "(Value=\"BaseMovementSpeed_+%\")": -10,
+                        "(Value=\"BaseWaterConsumption_+%\")": -25,
+                        "(Value=\"BaseMountCargoSlots_+\")": 6,
+                        "(Value=\"BaseMountHeavyCargoSlots_+\")": 3
+   
+                    "Name": "CSaddle_Sandworm",
+                        "(Value=\"BaseFallDamageResistance_%\")": 25,
+                        "(Value=\"BaseMeleeDamage_+%\")": 25,
+                        "(Value=\"BaseWeightCapacity_+%\")": 45,
+                        "(Value=\"BaseFrostDamageResistance_%\")": -25,
+                        "(Value=\"BaseHeatResistance_%\")": 25,
+                        "(Value=\"BaseMeleeDamageResistance_+%\")": 25,
+                        "(Value=\"BaseMovementSpeed_+%\")": -10,
+                        "(Value=\"BasePoisonDamageResistance_%\")": 25,
+                        "(Value=\"BaseMountCargoSlots_+\")": 6,
+                        "(Value=\"BaseMountHeavyCargoSlots_+\")": 4
+
+                    "Name": "CSaddle_Desert",
+                        "(Value=\"BaseWeightCapacity_+%\")": 10,
+                        "(Value=\"BaseExposureResistance_+%\")": 25,
+                        "(Value=\"BaseFoodConsumption_+%\")": 10,
+                        "(Value=\"BaseFrostDamageResistance_%\")": -50,
+                        "(Value=\"BaseHealthRegen_+%\")": 25,
+                        "(Value=\"BaseHeatResistance_%\")": 50,
+                        "(Value=\"BaseMovementSpeed_+%\")": 25,
+                        "(Value=\"BaseWaterConsumption_+%\")": -50,
+                        "(Value=\"BaseMountCargoSlots_+\")": 6,
+                        "(Value=\"BaseMountHeavyCargoSlots_+\")": 3
+ 
+                    "Name": "CSaddle_Armored",
+                        "(Value=\"BaseFallDamageResistance_%\")": 50,
+                        "(Value=\"BaseMeleeDamage_+%\")": 10,
+                        "(Value=\"BaseExposureResistance_+%\")": 50,
+                        "(Value=\"BaseFoodConsumption_+%\")": 10,
+                        "(Value=\"BaseFrostDamageResistance_%\")": 50,
+                        "(Value=\"BaseMeleeDamageResistance_+%\")": 50,
+                        "(Value=\"BasePoisonDamageResistance_%\")": 25,
+                        "(Value=\"BaseWaterConsumption_+%\")": -25,
+                        "(Value=\"BaseMountCargoSlots_+\")": 7,
+                        "(Value=\"BaseMountHeavyCargoSlots_+\")": 4
+
+                    "Name": "CSaddle_Explorer",
+                        "(Value=\"BaseFallDamageResistance_%\")": 25,
+                        "(Value=\"BaseMeleeDamage_+%\")": -10,
+                        "(Value=\"BaseWeightCapacity_+%\")": 10,
+                        "(Value=\"BaseExposureResistance_+%\")": 25,
+                        "(Value=\"BaseFrostDamageResistance_%\")": 50,
+                        "(Value=\"BaseHeatResistance_%\")": -25,
+                        "(Value=\"BaseMaximumStamina_+%\")": 25,
+                        "(Value=\"BasePoisonDamageResistance_%\")": 25,
+                        "(Value=\"BaseWaterConsumption_+%\")": -25,
+                        "(Value=\"BaseMountCargoSlots_+\")": 7,
+                        "(Value=\"BaseMountHeavyCargoSlots_+\")": 4
+    
+                    "Name": "CSaddle_Racing",
+                        "(Value=\"BaseStaminaRegen_+%\")": 25,
+                        "(Value=\"BaseWeightCapacity_+%\")": -10,
+                        "(Value=\"BaseFoodConsumption_+%\")": 20,
+                        "(Value=\"BaseHealthRegen_+%\")": 25,
+                        "(Value=\"BaseMaximumHealth_+%\")": 25,
+                        "(Value=\"BaseMaximumStamina_+%\")": 25,
+                        "(Value=\"BaseMovementSpeed_+%\")": 50,
+                        "(Value=\"BaseWaterConsumption_+%\")": 20,
+                        "(Value=\"BaseMountCargoSlots_+\")": -1,
+                        "(Value=\"BaseMountHeavyCargoSlots_+\")": -1
