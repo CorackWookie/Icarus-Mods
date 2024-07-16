@@ -14,6 +14,7 @@ Workshop Patcher2 Module when equipped gives the following:
 +10% Movement Speed.
 Can see animal health and status.
 Highlight Small, Medium, and Large Animals like the trait.
+Highlight Thrown Knifes, Thrown Spear, Thrown Axe?, Shot Projectile,
 +50% Tamed Creature Stamina.
 +25% Tamed Creature Speed.
 Grants nearby people healing Aura.

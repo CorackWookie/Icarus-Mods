@@ -1,0 +1,9 @@
+Coracks_Medical_Satchel_Seed_Pouch
+
+by Corack
+
+This changes the medical Satchel and Seed Pouch to hold anything including more pouches.
+This is great for organizing a move of a base
+Just create 1 pouch per workbench / cabinet.
+
+Pouches hold 70 slots so you can move a whole standard metal cabinet plus the cabinet.
