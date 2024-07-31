@@ -25,15 +25,15 @@
       }
     },
     {
-      "name": "Coracks_Arrows_Bullets_N_Repair_X50",
+      "name": "Coracks_Ammo and_Repair_x100",
       "author": "Corack",
       "version": "3.0",
       "compatibility": "",
-      "description": "This makes all workshop arrows and the repair kit give you 50 each time you purchase. My Dedicated server has issues returning stuff to space.",
-      "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Arrows_Bullets_N_Repair%20Kit%20x50.png",
-      "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Arrows_Bullets_N_Repair_X50.txt",
+      "description": "This makes all workshop ammo and the repair kit give you 100 each time you purchase. My Dedicated server has issues returning stuff to space.",
+      "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Ammo%20and_Repair_x100.png",
+      "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Ammo%20and_Repair_x100.txt",
       "files": {
-          "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Arrows_Bullets_N_Repair_x50.EXMODZ"
+          "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Ammo%20and_Repair_x100.EXMODZ"
       }
     },
     {
@@ -61,14 +61,14 @@
       }
     },
 	    {
-      "name": "Coracks_Medical_Satchel_Seed_Pouch",
+      "name": "Coracks_Expanded_Pouches",
       "author": "Corack",
       "version": "1.0",
       "compatibility": "",
-      "description": "This changes the medical Satchel and Seed Pouch to hold anything including more pouches.",
-      "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Medical_Satchel_Seed_Pouch.txt",
+      "description": "This changes the pouches to hold anything including more pouches.",
+      "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Expanded_Pouches.txt",
       "files": {
-          "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Medical_Satchel_Seed_Pouch.EXMODZ"
+          "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Expanded_Pouches.EXMODZ"
       }
     },
     {
