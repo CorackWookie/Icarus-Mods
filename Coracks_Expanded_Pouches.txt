@@ -1,0 +1,10 @@
+Coracks_Expanded_Pouches
+
+by Corack
+
+This changes the pouches to hold anything including more pouches.
+Each is can hold 70 items!
+This is great for organizing a move of a base
+Just create 1 pouch per workbench / cabinet.
+
+Pouches hold 70 slots so you can move a whole standard metal cabinet plus the cabinet.

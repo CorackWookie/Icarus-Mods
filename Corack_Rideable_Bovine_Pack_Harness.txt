@@ -1,6 +1,7 @@
 Corack_Rideable_Bovine_Pack_Harness
 
 Used Dextermod_BetterCart_Ridgeback as template
+Used Critical Fails setting
 
 Allows you to ride a buffalo with the Bovine Pack Harness
 
