@@ -119,17 +119,7 @@
           "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Saddle_Improvements.EXMODZ"
       }
     },
-	    {
-      "name": "Corack_Rideable_Bovine_Pack_Harness",
-      "author": "Corack",
-      "version": "2.0",
-      "compatibility": "",
-      "description": "This lets you ride the buffalow with the Bovine Pack Harness.",
-      "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Corack_Rideable_Bovine_Pack_Harness.txt",
-      "files": {
-          "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Corack_Rideable_Bovine_Pack_Harness.EXMODZ"
-      }
-    },
+
     {
       "name": "Coracks_Tools",
       "author": "Corack",
