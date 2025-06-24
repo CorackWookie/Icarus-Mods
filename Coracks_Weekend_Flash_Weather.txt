@@ -1,0 +1,18 @@
+Disabled Debris, Lightning, Treetopple,Cloud and Wind effect Visuals. No Forest fires now. 5 light weather days followed by 2 days of mixed weather Storms are roughly 5 min. Less Tier 5 and 6 Storms
+This also helps with people who have video card issues displaying the extra effects.
+The odds for tier 5 and tier 6 storms have been lowered.
+
+ The development of this mod was done primarily using medium difficulty.
+
+ Lightning, Thunder, Debris and Clouds have been turned off for performance issues. Topple trees has also been turned off. So there should be no forest fires or fallen trees with this mod.
+
+Easy difficulty for example would be tiers 0,0,0,[
+
+Medium difficulty for example would be tiers 0,0,0,[
+
+Hard difficulty for example would be tiers 1,1,1,[
+
+The forecast then calls the weather events and now instead of a take cover message it displays the name of the weather event. 
+
+
+That way you can individually check any events that are not acting like they should for mod errors. The events have some controls that I could access on time but not complete control due to the randomizing nature. The storms should only last approximately 5 minutes when they occur.Tier 0 storms are set to an extremely brief period and should not even be noticed during play.

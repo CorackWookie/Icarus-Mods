@@ -1,0 +1,15 @@
+Coracks_Base_Item_Variations
+
+If you create the following there will be "R" variations of the original variations.
+
+Wood Bed
+Cooking Station
+Concrete Furnace
+Electric Dehumidifier
+Electric Furnace
+Glass Working Bench
+Cupboards
+
+Stoves and Kitchen Benches I have adapted using the opposite skin. 
+Note you might have issues with the stoves
+If you do send me a DM on Linkarus

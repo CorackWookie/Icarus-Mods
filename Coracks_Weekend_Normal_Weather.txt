@@ -1,0 +1,11 @@
+ 5 light weather days followed by 2 day of regular weather Storms. Less Tier 5 and 6 Storms"
+
+The odds for tier 5 and tier 6 storms have been lowered.
+
+ The development of this mod was done primarily using medium difficulty.
+
+ 
+The forecast then calls the weather events and now instead of a take cover message it displays the name of the weather event. 
+
+
+That way you can individually check any events that are not acting like they should for mod errors. The events have some controls that I could access on time but not complete control due to the randomizing nature. The storms should only last approximately 5 minutes when they occur.Tier 0 storms are set to an extremely brief period and should not even be noticed during play.
