@@ -7,3 +7,4 @@ This is great for organizing a move of a base
 Just create 1 pouch per workbench / cabinet.
 
 Pouches hold 70 slots so you can move a whole standard metal cabinet plus the cabinet.
+Version 3.0 added the new 6 slot colored pouches to make them hold 70 items!
