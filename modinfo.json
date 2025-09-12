@@ -27,9 +27,9 @@
     {
       "name": "Coracks_Ammo_and_Repair_x100",
       "author": "Corack",
-      "version": "4.0",
+      "version": "5.0",
       "compatibility": "",
-      "description": "This makes all workshop ammo and the repair kit give you 100 each time you purchase. Added new workshop shotgun ammo.",
+      "description": "This makes all workshop ammo and the repair kit give you 100 each time you purchase. Added new workshop rifle ammo.",
       "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Ammo_and_Repair_x100.png",
       "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Ammo_and_Repair_x100.txt",
       "files": {
