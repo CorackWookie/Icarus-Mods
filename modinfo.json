@@ -27,7 +27,7 @@
         {
             "name": "Coracks_Ammo_and_Repair_x100",
             "author": "Corack",
-            "version": "5.0",
+            "version": "6.0",
             "compatibility": "",
             "description": "This makes all workshop ammo and the repair kit give you 100 each time you purchase. Added new workshop rifle ammo.",
             "files": {
@@ -35,6 +35,18 @@
             },
             "imageURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Ammo_and_Repair_x100.png",
             "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Ammo_and_Repair_x100.txt"
+        },
+		        {
+            "name": "Coracks_Ammo_and_Repair_x500",
+            "author": "Corack",
+            "version": "1.0",
+            "compatibility": "",
+            "description": "This makes all workshop ammo and the repair kit give you 500 each time you purchase. Added new workshop rifle ammo.",
+            "files": {
+                "exmodz": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Ammo_and_Repair_x500.EXMODZ"
+            },
+            "imageURL": "",
+            "readmeURL": "https://github.com/CorackWookie/Icarus-Mods/blob/main/Coracks_Arrows_Bullets_N_Repair_x500%20.txt"
         },
         {
             "name": "Coracks_Base_Item_Variations",
